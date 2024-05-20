@@ -1,0 +1,678 @@
+[
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/layout_activity_login.xml.flat",
+        "source": "com.example.styleplt.app-main-40:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-xhdpi_ic_baseline_spa_24.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-xhdpi/ic_baseline_spa_24.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-xxxhdpi_ic_baseline_arrow_back_24.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-xxxhdpi/ic_baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-xxhdpi_ic_baseline_check_24.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-xxhdpi/ic_baseline_check_24.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/layout_activity_comments.xml.flat",
+        "source": "com.example.styleplt.app-main-40:/layout/activity_comments.xml"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-mdpi_ic_baseline_check_24.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-mdpi/ic_baseline_check_24.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-ldpi_test_icon.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-ldpi/test_icon.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-hdpi_ic_baseline_add_a_photo_24.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-hdpi/ic_baseline_add_a_photo_24.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-xhdpi_ic_baseline_settings_24.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-xhdpi/ic_baseline_settings_24.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-xxhdpi_ic_baseline_create_24.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-xxhdpi/ic_baseline_create_24.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.styleplt.app-main-40:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/layout_item_outer.xml.flat",
+        "source": "com.example.styleplt.app-main-40:/layout/item_outer.xml"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/font_nanumsquare_otfeb.otf.flat",
+        "source": "com.example.styleplt.app-main-40:/font/nanumsquare_otfeb.otf"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-mdpi_ic_baseline_spa_24.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-mdpi/ic_baseline_spa_24.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-hdpi_ic_baseline_arrow_back_24.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-hdpi/ic_baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-xhdpi_ic_baseline_add_a_photo_24.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-xhdpi/ic_baseline_add_a_photo_24.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-anydpi-v21_ic_baseline_close_24.xml.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-anydpi-v21/ic_baseline_close_24.xml"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-mdpi_ic_baseline_settings_24.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-mdpi/ic_baseline_settings_24.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/layout_activity_save_list.xml.flat",
+        "source": "com.example.styleplt.app-main-40:/layout/activity_save_list.xml"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-ldpi_ic_baseline_create_24.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-ldpi/ic_baseline_create_24.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable_button_bg.xml.flat",
+        "source": "com.example.styleplt.app-main-40:/drawable/button_bg.xml"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-hdpi_ic_baseline_push_pin_24.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-hdpi/ic_baseline_push_pin_24.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-ldpi_ic_baseline_check_24.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-ldpi/ic_baseline_check_24.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-mdpi_ic_android_black_24dp.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-mdpi/ic_android_black_24dp.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-v24_icon_weather_news_64.png.flat",
+        "source": "com.example.styleplt.app-main-40:/drawable-v24/icon_weather_news_64.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-xxxhdpi_ic_baseline_add_a_photo_24.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-xxxhdpi/ic_baseline_add_a_photo_24.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-xhdpi_ic_baseline_check_24.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-xhdpi/ic_baseline_check_24.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/layout_activity_weather.xml.flat",
+        "source": "com.example.styleplt.app-main-40:/layout/activity_weather.xml"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/mipmap-xhdpi_ic_launcher_title_round.png.flat",
+        "source": "com.example.styleplt.app-main-40:/mipmap-xhdpi/ic_launcher_title_round.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/layout_activity_main.xml.flat",
+        "source": "com.example.styleplt.app-main-40:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-v24_splash.PNG.flat",
+        "source": "com.example.styleplt.app-main-40:/drawable-v24/splash.PNG"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/layout_activity_upload.xml.flat",
+        "source": "com.example.styleplt.app-main-40:/layout/activity_upload.xml"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-anydpi-v21_ic_baseline_check_24.xml.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-anydpi-v21/ic_baseline_check_24.xml"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-ldpi_ic_baseline_spa_24.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-ldpi/ic_baseline_spa_24.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-xxxhdpi_test_icon.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-xxxhdpi/test_icon.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-xhdpi_ic_launcher_title_foreground.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-xhdpi/ic_launcher_title_foreground.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-mdpi_ic_baseline_add_a_photo_24.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-mdpi/ic_baseline_add_a_photo_24.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-ldpi_ic_baseline_arrow_back_24.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-ldpi/ic_baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-anydpi-v24_ic_baseline_push_pin_24.xml.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-anydpi-v24/ic_baseline_push_pin_24.xml"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/mipmap-hdpi_ic_launcher_title_round.png.flat",
+        "source": "com.example.styleplt.app-main-40:/mipmap-hdpi/ic_launcher_title_round.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/mipmap-xxhdpi_ic_launcher_title_round.png.flat",
+        "source": "com.example.styleplt.app-main-40:/mipmap-xxhdpi/ic_launcher_title_round.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable_sun.png.flat",
+        "source": "com.example.styleplt.app-main-40:/drawable/sun.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-mdpi_ic_baseline_arrow_back_24.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-mdpi/ic_baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/layout_activity_register.xml.flat",
+        "source": "com.example.styleplt.app-main-40:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/layout_activity_uploaded_image.xml.flat",
+        "source": "com.example.styleplt.app-main-40:/layout/activity_uploaded_image.xml"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/mipmap-xxxhdpi_ic_launcher_title.png.flat",
+        "source": "com.example.styleplt.app-main-40:/mipmap-xxxhdpi/ic_launcher_title.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-xxhdpi_ic_android_black_24dp.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-xxhdpi/ic_android_black_24dp.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/layout_activity_save.xml.flat",
+        "source": "com.example.styleplt.app-main-40:/layout/activity_save.xml"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable_rain.png.flat",
+        "source": "com.example.styleplt.app-main-40:/drawable/rain.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-hdpi_ic_android_black_24dp.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-hdpi/ic_android_black_24dp.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/layout_activity_update_profile.xml.flat",
+        "source": "com.example.styleplt.app-main-40:/layout/activity_update_profile.xml"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-xxhdpi_ic_baseline_close_24.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-xxhdpi/ic_baseline_close_24.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-xxxhdpi_ic_launcher_title_foreground.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-xxxhdpi/ic_launcher_title_foreground.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-xxhdpi_ic_baseline_spa_24.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-xxhdpi/ic_baseline_spa_24.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-hdpi_ic_baseline_spa_24.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-hdpi/ic_baseline_spa_24.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/layout_activity_splash.xml.flat",
+        "source": "com.example.styleplt.app-main-40:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-anydpi-v21_ic_baseline_arrow_back_24.xml.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-anydpi-v21/ic_baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-mdpi_ic_baseline_close_24.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-mdpi/ic_baseline_close_24.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable_snow.png.flat",
+        "source": "com.example.styleplt.app-main-40:/drawable/snow.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-mdpi_ic_baseline_star_24.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-mdpi/ic_baseline_star_24.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/layout_activity_image_detail.xml.flat",
+        "source": "com.example.styleplt.app-main-40:/layout/activity_image_detail.xml"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/mipmap-xxhdpi_ic_launcher_title.png.flat",
+        "source": "com.example.styleplt.app-main-40:/mipmap-xxhdpi/ic_launcher_title.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-hdpi_ic_baseline_close_24.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-hdpi/ic_baseline_close_24.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-mdpi_ic_baseline_camera_alt_24.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-mdpi/ic_baseline_camera_alt_24.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/layout_item_bottom.xml.flat",
+        "source": "com.example.styleplt.app-main-40:/layout/item_bottom.xml"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-hdpi_ic_baseline_star_24.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-hdpi/ic_baseline_star_24.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-v24_location.png.flat",
+        "source": "com.example.styleplt.app-main-40:/drawable-v24/location.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-ldpi_ic_baseline_star_24.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-ldpi/ic_baseline_star_24.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-xxxhdpi_ic_android_black_24dp.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-xxxhdpi/ic_android_black_24dp.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable_feed_hilight.png.flat",
+        "source": "com.example.styleplt.app-main-40:/drawable/feed_hilight.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/layout_item_comments.xml.flat",
+        "source": "com.example.styleplt.app-main-40:/layout/item_comments.xml"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-xxhdpi_ic_baseline_star_24.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-xxhdpi/ic_baseline_star_24.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-xhdpi_ic_baseline_camera_alt_24.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-xhdpi/ic_baseline_camera_alt_24.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-xxhdpi_ic_launcher_title_foreground.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-xxhdpi/ic_launcher_title_foreground.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable_add_image_512.png.flat",
+        "source": "com.example.styleplt.app-main-40:/drawable/add_image_512.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-anydpi-v21_ic_baseline_create_24.xml.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-anydpi-v21/ic_baseline_create_24.xml"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-xxhdpi_ic_baseline_camera_alt_24.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-xxhdpi/ic_baseline_camera_alt_24.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable_test_background.jpg.flat",
+        "source": "com.example.styleplt.app-main-40:/drawable/test_background.jpg"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/layout_fragment_main.xml.flat",
+        "source": "com.example.styleplt.app-main-40:/layout/fragment_main.xml"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable_profile.png.flat",
+        "source": "com.example.styleplt.app-main-40:/drawable/profile.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable_profile_hilight.png.flat",
+        "source": "com.example.styleplt.app-main-40:/drawable/profile_hilight.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-hdpi_ic_baseline_check_24.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-hdpi/ic_baseline_check_24.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-anydpi-v21_ic_baseline_spa_24.xml.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-anydpi-v21/ic_baseline_spa_24.xml"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable_splash.xml.flat",
+        "source": "com.example.styleplt.app-main-40:/drawable/splash.xml"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/mipmap-hdpi_ic_launcher_title.png.flat",
+        "source": "com.example.styleplt.app-main-40:/mipmap-hdpi/ic_launcher_title.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-xxhdpi_test_icon.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-xxhdpi/test_icon.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable_cloud.png.flat",
+        "source": "com.example.styleplt.app-main-40:/drawable/cloud.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-xhdpi_ic_baseline_create_24.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-xhdpi/ic_baseline_create_24.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-hdpi_ic_baseline_create_24.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-hdpi/ic_baseline_create_24.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-xxxhdpi_ic_baseline_camera_alt_24.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-xxxhdpi/ic_baseline_camera_alt_24.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable_home.png.flat",
+        "source": "com.example.styleplt.app-main-40:/drawable/home.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-ldpi_ic_baseline_add_a_photo_24.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-ldpi/ic_baseline_add_a_photo_24.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-hdpi_test_icon.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-hdpi/test_icon.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-hdpi_ic_baseline_camera_alt_24.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-hdpi/ic_baseline_camera_alt_24.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/layout_item_top.xml.flat",
+        "source": "com.example.styleplt.app-main-40:/layout/item_top.xml"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable_home_hilight.png.flat",
+        "source": "com.example.styleplt.app-main-40:/drawable/home_hilight.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-hdpi_ic_baseline_settings_24.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-hdpi/ic_baseline_settings_24.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-anydpi-v21_ic_baseline_star_24.xml.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-anydpi-v21/ic_baseline_star_24.xml"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-xxxhdpi_ic_baseline_check_24.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-xxxhdpi/ic_baseline_check_24.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/layout_item_uploaded_image.xml.flat",
+        "source": "com.example.styleplt.app-main-40:/layout/item_uploaded_image.xml"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable_button_round.xml.flat",
+        "source": "com.example.styleplt.app-main-40:/drawable/button_round.xml"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-mdpi_ic_baseline_push_pin_24.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-mdpi/ic_baseline_push_pin_24.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-ldpi_ic_baseline_camera_alt_24.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-ldpi/ic_baseline_camera_alt_24.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-anydpi-v21_ic_baseline_settings_24.xml.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-anydpi-v21/ic_baseline_settings_24.xml"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/mipmap-anydpi-v26_ic_launcher_title.xml.flat",
+        "source": "com.example.styleplt.app-main-40:/mipmap-anydpi-v26/ic_launcher_title.xml"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/layout_frag_board.xml.flat",
+        "source": "com.example.styleplt.app-main-40:/layout/frag_board.xml"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-ldpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/layout_activity_popup.xml.flat",
+        "source": "com.example.styleplt.app-main-40:/layout/activity_popup.xml"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable_edit_bg.xml.flat",
+        "source": "com.example.styleplt.app-main-40:/drawable/edit_bg.xml"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/layout_frag_profile.xml.flat",
+        "source": "com.example.styleplt.app-main-40:/layout/frag_profile.xml"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/font_nanumsquare_otfl.otf.flat",
+        "source": "com.example.styleplt.app-main-40:/font/nanumsquare_otfl.otf"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/layout_frag_home.xml.flat",
+        "source": "com.example.styleplt.app-main-40:/layout/frag_home.xml"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable_night.png.flat",
+        "source": "com.example.styleplt.app-main-40:/drawable/night.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-xhdpi_ic_android_black_24dp.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-xhdpi/ic_android_black_24dp.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable_sun_cloud.png.flat",
+        "source": "com.example.styleplt.app-main-40:/drawable/sun_cloud.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-xxxhdpi_ic_baseline_create_24.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-xxxhdpi/ic_baseline_create_24.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/font_nanumsquare_otfr.otf.flat",
+        "source": "com.example.styleplt.app-main-40:/font/nanumsquare_otfr.otf"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable_night_cloud.png.flat",
+        "source": "com.example.styleplt.app-main-40:/drawable/night_cloud.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-xhdpi_ic_baseline_push_pin_24.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-xhdpi/ic_baseline_push_pin_24.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/font_koreanah2_r.ttf.flat",
+        "source": "com.example.styleplt.app-main-40:/font/koreanah2_r.ttf"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/mipmap-xhdpi_ic_launcher_title.png.flat",
+        "source": "com.example.styleplt.app-main-40:/mipmap-xhdpi/ic_launcher_title.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/font_koreanah1_r.ttf.flat",
+        "source": "com.example.styleplt.app-main-40:/font/koreanah1_r.ttf"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-anydpi-v21_test_icon.xml.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-anydpi-v21/test_icon.xml"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-ldpi_ic_baseline_push_pin_24.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-ldpi/ic_baseline_push_pin_24.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-anydpi-v21_ic_baseline_camera_alt_24.xml.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-anydpi-v21/ic_baseline_camera_alt_24.xml"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-ldpi_ic_baseline_close_24.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-ldpi/ic_baseline_close_24.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/layout_item_upload.xml.flat",
+        "source": "com.example.styleplt.app-main-40:/layout/item_upload.xml"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/layout_activity_post.xml.flat",
+        "source": "com.example.styleplt.app-main-40:/layout/activity_post.xml"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.styleplt.app-main-40:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-anydpi-v21_ic_launcher_foreground.xml.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-anydpi-v21/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-anydpi-v21_ic_baseline_add_a_photo_24.xml.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-anydpi-v21/ic_baseline_add_a_photo_24.xml"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/font_koreanah3_r.ttf.flat",
+        "source": "com.example.styleplt.app-main-40:/font/koreanah3_r.ttf"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/layout_item_board.xml.flat",
+        "source": "com.example.styleplt.app-main-40:/layout/item_board.xml"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/font_nanumsquare_otfb.otf.flat",
+        "source": "com.example.styleplt.app-main-40:/font/nanumsquare_otfb.otf"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-xxxhdpi_ic_baseline_star_24.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-xxxhdpi/ic_baseline_star_24.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-xxxhdpi_ic_baseline_spa_24.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-xxxhdpi/ic_baseline_spa_24.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable_feed.png.flat",
+        "source": "com.example.styleplt.app-main-40:/drawable/feed.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-xxhdpi_ic_baseline_add_a_photo_24.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-xxhdpi/ic_baseline_add_a_photo_24.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/layout_toolbar.xml.flat",
+        "source": "com.example.styleplt.app-main-40:/layout/toolbar.xml"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-ldpi_ic_baseline_settings_24.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-ldpi/ic_baseline_settings_24.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/mipmap-xxxhdpi_ic_launcher_title_round.png.flat",
+        "source": "com.example.styleplt.app-main-40:/mipmap-xxxhdpi/ic_launcher_title_round.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-xxxhdpi_ic_baseline_push_pin_24.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-xxxhdpi/ic_baseline_push_pin_24.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/mipmap-anydpi-v26_ic_launcher_title_round.xml.flat",
+        "source": "com.example.styleplt.app-main-40:/mipmap-anydpi-v26/ic_launcher_title_round.xml"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-xhdpi_ic_baseline_arrow_back_24.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-xhdpi/ic_baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-xhdpi_ic_baseline_star_24.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-xhdpi/ic_baseline_star_24.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-mdpi_ic_launcher_title_foreground.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-mdpi/ic_launcher_title_foreground.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-hdpi_ic_launcher_title_foreground.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-hdpi/ic_launcher_title_foreground.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-anydpi-v21_ic_launcher_title_foreground.xml.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-anydpi-v21/ic_launcher_title_foreground.xml"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-xxxhdpi_ic_baseline_close_24.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-xxxhdpi/ic_baseline_close_24.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-xxxhdpi_ic_baseline_settings_24.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-xxxhdpi/ic_baseline_settings_24.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-xhdpi_ic_baseline_close_24.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-xhdpi/ic_baseline_close_24.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-mdpi_test_icon.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-mdpi/test_icon.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-xxhdpi_ic_baseline_push_pin_24.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-xxhdpi/ic_baseline_push_pin_24.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/mipmap-mdpi_ic_launcher_title_round.png.flat",
+        "source": "com.example.styleplt.app-main-40:/mipmap-mdpi/ic_launcher_title_round.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-xhdpi_test_icon.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-xhdpi/test_icon.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/mipmap-mdpi_ic_launcher_title.png.flat",
+        "source": "com.example.styleplt.app-main-40:/mipmap-mdpi/ic_launcher_title.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-xxhdpi_ic_baseline_settings_24.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-xxhdpi/ic_baseline_settings_24.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-mdpi_ic_baseline_create_24.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-mdpi/ic_baseline_create_24.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-xxhdpi_ic_baseline_arrow_back_24.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-xxhdpi/ic_baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-ldpi_ic_android_black_24dp.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-ldpi/ic_android_black_24dp.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-anydpi-v21_ic_android_black_24dp.xml.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-anydpi-v21/ic_android_black_24dp.xml"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable_add_image.png.flat",
+        "source": "com.example.styleplt.app-main-40:/drawable/add_image.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/drawable-ldpi_ic_launcher_title_foreground.png.flat",
+        "source": "com.example.styleplt.app-pngs-33:/drawable-ldpi/ic_launcher_title_foreground.png"
+    },
+    {
+        "merged": "com.example.styleplt.app-merged_res-38:/layout_item_save.xml.flat",
+        "source": "com.example.styleplt.app-main-40:/layout/item_save.xml"
+    }
+]

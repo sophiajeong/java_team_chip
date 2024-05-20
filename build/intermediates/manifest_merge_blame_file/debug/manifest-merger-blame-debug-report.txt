@@ -1,0 +1,390 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.styleplt"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml
+10    <!-- 위치 권환 -->
+11    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+11-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:4:5-79
+11-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:4:22-76
+12    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" /> <!-- 인터넷 권한 선언 -->
+12-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:5:5-81
+12-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:5:22-78
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:6:5-67
+13-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:6:22-64
+14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+14-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:7:5-79
+14-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:7:22-76
+15
+16    <application
+16-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:9:5-102:19
+17        android:allowBackup="true"
+17-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:10:9-35
+18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+18-->[androidx.core:core:1.8.0] C:\Users\SM-PC\.gradle\caches\transforms-3\817b2fb9475b60d41f673b4294c05843\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+19        android:debuggable="true"
+20        android:icon="@mipmap/ic_launcher_title_round"
+20-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:11:9-55
+21        android:label="@string/app_name"
+21-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:12:9-41
+22        android:roundIcon="@mipmap/ic_launcher_round"
+22-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:13:9-54
+23        android:supportsRtl="true"
+23-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:14:9-35
+24        android:testOnly="true"
+25        android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+25-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:15:9-65
+26        android:usesCleartextTraffic="true" >
+26-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:16:9-44
+27        <activity
+27-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:17:9-23:20
+28            android:name="com.example.styleplt.SaveListActivity"
+28-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:18:13-45
+29            android:exported="false" >
+29-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:19:13-37
+30            <meta-data
+30-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:20:13-22:36
+31                android:name="android.app.lib_name"
+31-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:21:17-52
+32                android:value="" />
+32-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:22:17-33
+33        </activity>
+34        <activity
+34-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:24:9-30:20
+35            android:name="com.example.styleplt.SaveActivity"
+35-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:25:13-41
+36            android:exported="false" >
+36-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:26:13-37
+37            <meta-data
+37-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:20:13-22:36
+38                android:name="android.app.lib_name"
+38-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:21:17-52
+39                android:value="" />
+39-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:22:17-33
+40        </activity>
+41        <activity
+41-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:31:9-37:20
+42            android:name="com.example.styleplt.UploadedImageActivity"
+42-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:32:13-50
+43            android:exported="false" >
+43-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:33:13-37
+44            <meta-data
+44-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:20:13-22:36
+45                android:name="android.app.lib_name"
+45-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:21:17-52
+46                android:value="" />
+46-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:22:17-33
+47        </activity>
+48        <activity
+48-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:38:9-44:20
+49            android:name="com.example.styleplt.ImageDetailActivity"
+49-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:39:13-48
+50            android:exported="false" >
+50-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:40:13-37
+51            <meta-data
+51-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:20:13-22:36
+52                android:name="android.app.lib_name"
+52-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:21:17-52
+53                android:value="" />
+53-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:22:17-33
+54        </activity>
+55        <activity
+55-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:45:9-51:20
+56            android:name="com.example.styleplt.PopupActivity"
+56-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:46:13-42
+57            android:exported="false" >
+57-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:47:13-37
+58            <meta-data
+58-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:20:13-22:36
+59                android:name="android.app.lib_name"
+59-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:21:17-52
+60                android:value="" />
+60-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:22:17-33
+61        </activity>
+62        <activity
+62-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:52:9-58:20
+63            android:name="com.example.styleplt.UploadActivity"
+63-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:53:13-43
+64            android:exported="false" >
+64-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:54:13-37
+65            <meta-data
+65-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:20:13-22:36
+66                android:name="android.app.lib_name"
+66-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:21:17-52
+67                android:value="" />
+67-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:22:17-33
+68        </activity>
+69        <activity
+69-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:59:9-65:20
+70            android:name="com.example.styleplt.WeatherActivity"
+70-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:60:13-44
+71            android:exported="false" >
+71-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:61:13-37
+72            <meta-data
+72-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:20:13-22:36
+73                android:name="android.app.lib_name"
+73-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:21:17-52
+74                android:value="" />
+74-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:22:17-33
+75        </activity>
+76        <activity
+76-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:66:9-72:20
+77            android:name="com.example.styleplt.UpdateProfile"
+77-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:67:13-42
+78            android:exported="false" >
+78-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:68:13-37
+79            <meta-data
+79-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:20:13-22:36
+80                android:name="android.app.lib_name"
+80-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:21:17-52
+81                android:value="" />
+81-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:22:17-33
+82        </activity>
+83        <activity
+83-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:73:9-80:20
+84            android:name="com.example.styleplt.CommentsActivity"
+84-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:74:13-45
+85            android:exported="false"
+85-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:75:13-37
+86            android:windowSoftInputMode="adjustNothing" >
+86-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:76:13-56
+87            <meta-data
+87-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:20:13-22:36
+88                android:name="android.app.lib_name"
+88-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:21:17-52
+89                android:value="" />
+89-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:22:17-33
+90        </activity>
+91        <activity
+91-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:81:9-87:20
+92            android:name="com.example.styleplt.PostActivity"
+92-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:82:13-41
+93            android:exported="false" >
+93-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:83:13-37
+94            <meta-data
+94-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:20:13-22:36
+95                android:name="android.app.lib_name"
+95-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:21:17-52
+96                android:value="" />
+96-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:22:17-33
+97        </activity>
+98        <activity
+98-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:88:9-90:39
+99            android:name="com.example.styleplt.LoginActivity"
+99-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:89:13-42
+100            android:exported="true" />
+100-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:90:13-36
+101        <activity android:name="com.example.styleplt.RegisterActivity" />
+101-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:91:9-54
+101-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:91:19-51
+102        <activity android:name="com.example.styleplt.MainActivity" />
+102-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:92:9-50
+102-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:92:19-47
+103        <activity
+103-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:93:9-101:20
+104            android:name="com.example.styleplt.SplashActivity"
+104-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:94:13-43
+105            android:exported="true" >
+105-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:95:13-36
+106            <intent-filter>
+106-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:96:13-100:29
+107                <action android:name="android.intent.action.MAIN" />
+107-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:97:17-69
+107-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:97:25-66
+108
+109                <category android:name="android.intent.category.LAUNCHER" />
+109-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:99:17-77
+109-->C:\Users\SM-PC\Desktop\fashion_people-master\app\src\main\AndroidManifest.xml:99:27-74
+110            </intent-filter>
+111        </activity>
+112        <activity
+112-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\SM-PC\.gradle\caches\transforms-3\e2ab7bd22a8e7ef0d6c61d36c4463a9b\transformed\firebase-auth-21.1.0\AndroidManifest.xml:27:9-44:20
+113            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
+113-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\SM-PC\.gradle\caches\transforms-3\e2ab7bd22a8e7ef0d6c61d36c4463a9b\transformed\firebase-auth-21.1.0\AndroidManifest.xml:28:13-80
+114            android:excludeFromRecents="true"
+114-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\SM-PC\.gradle\caches\transforms-3\e2ab7bd22a8e7ef0d6c61d36c4463a9b\transformed\firebase-auth-21.1.0\AndroidManifest.xml:29:13-46
+115            android:exported="true"
+115-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\SM-PC\.gradle\caches\transforms-3\e2ab7bd22a8e7ef0d6c61d36c4463a9b\transformed\firebase-auth-21.1.0\AndroidManifest.xml:30:13-36
+116            android:launchMode="singleTask"
+116-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\SM-PC\.gradle\caches\transforms-3\e2ab7bd22a8e7ef0d6c61d36c4463a9b\transformed\firebase-auth-21.1.0\AndroidManifest.xml:31:13-44
+117            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+117-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\SM-PC\.gradle\caches\transforms-3\e2ab7bd22a8e7ef0d6c61d36c4463a9b\transformed\firebase-auth-21.1.0\AndroidManifest.xml:32:13-72
+118            <intent-filter>
+118-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\SM-PC\.gradle\caches\transforms-3\e2ab7bd22a8e7ef0d6c61d36c4463a9b\transformed\firebase-auth-21.1.0\AndroidManifest.xml:33:13-43:29
+119                <action android:name="android.intent.action.VIEW" />
+119-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\SM-PC\.gradle\caches\transforms-3\e2ab7bd22a8e7ef0d6c61d36c4463a9b\transformed\firebase-auth-21.1.0\AndroidManifest.xml:34:17-69
+119-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\SM-PC\.gradle\caches\transforms-3\e2ab7bd22a8e7ef0d6c61d36c4463a9b\transformed\firebase-auth-21.1.0\AndroidManifest.xml:34:25-66
+120
+121                <category android:name="android.intent.category.DEFAULT" />
+121-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\SM-PC\.gradle\caches\transforms-3\e2ab7bd22a8e7ef0d6c61d36c4463a9b\transformed\firebase-auth-21.1.0\AndroidManifest.xml:36:17-76
+121-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\SM-PC\.gradle\caches\transforms-3\e2ab7bd22a8e7ef0d6c61d36c4463a9b\transformed\firebase-auth-21.1.0\AndroidManifest.xml:36:27-73
+122                <category android:name="android.intent.category.BROWSABLE" />
+122-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\SM-PC\.gradle\caches\transforms-3\e2ab7bd22a8e7ef0d6c61d36c4463a9b\transformed\firebase-auth-21.1.0\AndroidManifest.xml:37:17-78
+122-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\SM-PC\.gradle\caches\transforms-3\e2ab7bd22a8e7ef0d6c61d36c4463a9b\transformed\firebase-auth-21.1.0\AndroidManifest.xml:37:27-75
+123
+124                <data
+124-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\SM-PC\.gradle\caches\transforms-3\e2ab7bd22a8e7ef0d6c61d36c4463a9b\transformed\firebase-auth-21.1.0\AndroidManifest.xml:39:17-42:51
+125                    android:host="firebase.auth"
+125-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\SM-PC\.gradle\caches\transforms-3\e2ab7bd22a8e7ef0d6c61d36c4463a9b\transformed\firebase-auth-21.1.0\AndroidManifest.xml:40:21-49
+126                    android:path="/"
+126-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\SM-PC\.gradle\caches\transforms-3\e2ab7bd22a8e7ef0d6c61d36c4463a9b\transformed\firebase-auth-21.1.0\AndroidManifest.xml:41:21-37
+127                    android:scheme="genericidp" />
+127-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\SM-PC\.gradle\caches\transforms-3\e2ab7bd22a8e7ef0d6c61d36c4463a9b\transformed\firebase-auth-21.1.0\AndroidManifest.xml:42:21-48
+128            </intent-filter>
+129        </activity>
+130        <activity
+130-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\SM-PC\.gradle\caches\transforms-3\e2ab7bd22a8e7ef0d6c61d36c4463a9b\transformed\firebase-auth-21.1.0\AndroidManifest.xml:45:9-62:20
+131            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
+131-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\SM-PC\.gradle\caches\transforms-3\e2ab7bd22a8e7ef0d6c61d36c4463a9b\transformed\firebase-auth-21.1.0\AndroidManifest.xml:46:13-79
+132            android:excludeFromRecents="true"
+132-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\SM-PC\.gradle\caches\transforms-3\e2ab7bd22a8e7ef0d6c61d36c4463a9b\transformed\firebase-auth-21.1.0\AndroidManifest.xml:47:13-46
+133            android:exported="true"
+133-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\SM-PC\.gradle\caches\transforms-3\e2ab7bd22a8e7ef0d6c61d36c4463a9b\transformed\firebase-auth-21.1.0\AndroidManifest.xml:48:13-36
+134            android:launchMode="singleTask"
+134-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\SM-PC\.gradle\caches\transforms-3\e2ab7bd22a8e7ef0d6c61d36c4463a9b\transformed\firebase-auth-21.1.0\AndroidManifest.xml:49:13-44
+135            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+135-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\SM-PC\.gradle\caches\transforms-3\e2ab7bd22a8e7ef0d6c61d36c4463a9b\transformed\firebase-auth-21.1.0\AndroidManifest.xml:50:13-72
+136            <intent-filter>
+136-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\SM-PC\.gradle\caches\transforms-3\e2ab7bd22a8e7ef0d6c61d36c4463a9b\transformed\firebase-auth-21.1.0\AndroidManifest.xml:51:13-61:29
+137                <action android:name="android.intent.action.VIEW" />
+137-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\SM-PC\.gradle\caches\transforms-3\e2ab7bd22a8e7ef0d6c61d36c4463a9b\transformed\firebase-auth-21.1.0\AndroidManifest.xml:34:17-69
+137-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\SM-PC\.gradle\caches\transforms-3\e2ab7bd22a8e7ef0d6c61d36c4463a9b\transformed\firebase-auth-21.1.0\AndroidManifest.xml:34:25-66
+138
+139                <category android:name="android.intent.category.DEFAULT" />
+139-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\SM-PC\.gradle\caches\transforms-3\e2ab7bd22a8e7ef0d6c61d36c4463a9b\transformed\firebase-auth-21.1.0\AndroidManifest.xml:36:17-76
+139-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\SM-PC\.gradle\caches\transforms-3\e2ab7bd22a8e7ef0d6c61d36c4463a9b\transformed\firebase-auth-21.1.0\AndroidManifest.xml:36:27-73
+140                <category android:name="android.intent.category.BROWSABLE" />
+140-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\SM-PC\.gradle\caches\transforms-3\e2ab7bd22a8e7ef0d6c61d36c4463a9b\transformed\firebase-auth-21.1.0\AndroidManifest.xml:37:17-78
+140-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\SM-PC\.gradle\caches\transforms-3\e2ab7bd22a8e7ef0d6c61d36c4463a9b\transformed\firebase-auth-21.1.0\AndroidManifest.xml:37:27-75
+141
+142                <data
+142-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\SM-PC\.gradle\caches\transforms-3\e2ab7bd22a8e7ef0d6c61d36c4463a9b\transformed\firebase-auth-21.1.0\AndroidManifest.xml:39:17-42:51
+143                    android:host="firebase.auth"
+143-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\SM-PC\.gradle\caches\transforms-3\e2ab7bd22a8e7ef0d6c61d36c4463a9b\transformed\firebase-auth-21.1.0\AndroidManifest.xml:40:21-49
+144                    android:path="/"
+144-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\SM-PC\.gradle\caches\transforms-3\e2ab7bd22a8e7ef0d6c61d36c4463a9b\transformed\firebase-auth-21.1.0\AndroidManifest.xml:41:21-37
+145                    android:scheme="recaptcha" />
+145-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\SM-PC\.gradle\caches\transforms-3\e2ab7bd22a8e7ef0d6c61d36c4463a9b\transformed\firebase-auth-21.1.0\AndroidManifest.xml:42:21-48
+146            </intent-filter>
+147        </activity>
+148
+149        <service
+149-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\SM-PC\.gradle\caches\transforms-3\e2ab7bd22a8e7ef0d6c61d36c4463a9b\transformed\firebase-auth-21.1.0\AndroidManifest.xml:64:9-70:19
+150            android:name="com.google.firebase.components.ComponentDiscoveryService"
+150-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\SM-PC\.gradle\caches\transforms-3\e2ab7bd22a8e7ef0d6c61d36c4463a9b\transformed\firebase-auth-21.1.0\AndroidManifest.xml:65:13-84
+151            android:directBootAware="true"
+151-->[com.google.firebase:firebase-common:20.2.0] C:\Users\SM-PC\.gradle\caches\transforms-3\71bfb16b3c49fa620730b2a20ff786cc\transformed\firebase-common-20.2.0\AndroidManifest.xml:34:13-43
+152            android:exported="false" >
+152-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\SM-PC\.gradle\caches\transforms-3\e2ab7bd22a8e7ef0d6c61d36c4463a9b\transformed\firebase-auth-21.1.0\AndroidManifest.xml:66:13-37
+153            <meta-data
+153-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\SM-PC\.gradle\caches\transforms-3\e2ab7bd22a8e7ef0d6c61d36c4463a9b\transformed\firebase-auth-21.1.0\AndroidManifest.xml:67:13-69:85
+154                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+154-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\SM-PC\.gradle\caches\transforms-3\e2ab7bd22a8e7ef0d6c61d36c4463a9b\transformed\firebase-auth-21.1.0\AndroidManifest.xml:68:17-109
+155                android:value="com.google.firebase.components.ComponentRegistrar" />
+155-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\SM-PC\.gradle\caches\transforms-3\e2ab7bd22a8e7ef0d6c61d36c4463a9b\transformed\firebase-auth-21.1.0\AndroidManifest.xml:69:17-82
+156            <meta-data
+156-->[com.google.firebase:firebase-firestore:24.4.0] C:\Users\SM-PC\.gradle\caches\transforms-3\deb1ce4388edc00928e74a4283f39fd3\transformed\firebase-firestore-24.4.0\AndroidManifest.xml:19:13-21:85
+157                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+157-->[com.google.firebase:firebase-firestore:24.4.0] C:\Users\SM-PC\.gradle\caches\transforms-3\deb1ce4388edc00928e74a4283f39fd3\transformed\firebase-firestore-24.4.0\AndroidManifest.xml:20:17-111
+158                android:value="com.google.firebase.components.ComponentRegistrar" />
+158-->[com.google.firebase:firebase-firestore:24.4.0] C:\Users\SM-PC\.gradle\caches\transforms-3\deb1ce4388edc00928e74a4283f39fd3\transformed\firebase-firestore-24.4.0\AndroidManifest.xml:21:17-82
+159            <meta-data
+159-->[com.google.firebase:firebase-storage:20.1.0] C:\Users\SM-PC\.gradle\caches\transforms-3\2c21c3b2fc19d17821467cbff3349f0b\transformed\firebase-storage-20.1.0\AndroidManifest.xml:32:13-34:85
+160                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+160-->[com.google.firebase:firebase-storage:20.1.0] C:\Users\SM-PC\.gradle\caches\transforms-3\2c21c3b2fc19d17821467cbff3349f0b\transformed\firebase-storage-20.1.0\AndroidManifest.xml:33:17-107
+161                android:value="com.google.firebase.components.ComponentRegistrar" />
+161-->[com.google.firebase:firebase-storage:20.1.0] C:\Users\SM-PC\.gradle\caches\transforms-3\2c21c3b2fc19d17821467cbff3349f0b\transformed\firebase-storage-20.1.0\AndroidManifest.xml:34:17-82
+162        </service>
+163
+164        <activity
+164-->[com.google.android.gms:play-services-auth:20.3.0] C:\Users\SM-PC\.gradle\caches\transforms-3\a528f695b18ec67839af49f1ee916c2e\transformed\play-services-auth-20.3.0\AndroidManifest.xml:23:9-27:75
+165            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+165-->[com.google.android.gms:play-services-auth:20.3.0] C:\Users\SM-PC\.gradle\caches\transforms-3\a528f695b18ec67839af49f1ee916c2e\transformed\play-services-auth-20.3.0\AndroidManifest.xml:24:13-93
+166            android:excludeFromRecents="true"
+166-->[com.google.android.gms:play-services-auth:20.3.0] C:\Users\SM-PC\.gradle\caches\transforms-3\a528f695b18ec67839af49f1ee916c2e\transformed\play-services-auth-20.3.0\AndroidManifest.xml:25:13-46
+167            android:exported="false"
+167-->[com.google.android.gms:play-services-auth:20.3.0] C:\Users\SM-PC\.gradle\caches\transforms-3\a528f695b18ec67839af49f1ee916c2e\transformed\play-services-auth-20.3.0\AndroidManifest.xml:26:13-37
+168            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+168-->[com.google.android.gms:play-services-auth:20.3.0] C:\Users\SM-PC\.gradle\caches\transforms-3\a528f695b18ec67839af49f1ee916c2e\transformed\play-services-auth-20.3.0\AndroidManifest.xml:27:13-72
+169        <!--
+170            Service handling Google Sign-In user revocation. For apps that do not integrate with
+171            Google Sign-In, this service will never be started.
+172        -->
+173        <service
+173-->[com.google.android.gms:play-services-auth:20.3.0] C:\Users\SM-PC\.gradle\caches\transforms-3\a528f695b18ec67839af49f1ee916c2e\transformed\play-services-auth-20.3.0\AndroidManifest.xml:33:9-37:51
+174            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+174-->[com.google.android.gms:play-services-auth:20.3.0] C:\Users\SM-PC\.gradle\caches\transforms-3\a528f695b18ec67839af49f1ee916c2e\transformed\play-services-auth-20.3.0\AndroidManifest.xml:34:13-89
+175            android:exported="true"
+175-->[com.google.android.gms:play-services-auth:20.3.0] C:\Users\SM-PC\.gradle\caches\transforms-3\a528f695b18ec67839af49f1ee916c2e\transformed\play-services-auth-20.3.0\AndroidManifest.xml:35:13-36
+176            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+176-->[com.google.android.gms:play-services-auth:20.3.0] C:\Users\SM-PC\.gradle\caches\transforms-3\a528f695b18ec67839af49f1ee916c2e\transformed\play-services-auth-20.3.0\AndroidManifest.xml:36:13-107
+177            android:visibleToInstantApps="true" />
+177-->[com.google.android.gms:play-services-auth:20.3.0] C:\Users\SM-PC\.gradle\caches\transforms-3\a528f695b18ec67839af49f1ee916c2e\transformed\play-services-auth-20.3.0\AndroidManifest.xml:37:13-48
+178
+179        <activity
+179-->[com.github.lakue119:LakuePopupActivity:1.0.1] C:\Users\SM-PC\.gradle\caches\transforms-3\c9f4b2361b50dc2d95b02a53b8aae95d\transformed\LakuePopupActivity-1.0.1\AndroidManifest.xml:12:9-14:59
+180            android:name="com.lakue.lakuepopupactivity.PopupActivity"
+180-->[com.github.lakue119:LakuePopupActivity:1.0.1] C:\Users\SM-PC\.gradle\caches\transforms-3\c9f4b2361b50dc2d95b02a53b8aae95d\transformed\LakuePopupActivity-1.0.1\AndroidManifest.xml:13:13-70
+181            android:theme="@android:style/Theme.Dialog" />
+181-->[com.github.lakue119:LakuePopupActivity:1.0.1] C:\Users\SM-PC\.gradle\caches\transforms-3\c9f4b2361b50dc2d95b02a53b8aae95d\transformed\LakuePopupActivity-1.0.1\AndroidManifest.xml:14:13-56
+182
+183        <provider
+183-->[com.google.firebase:firebase-common:20.2.0] C:\Users\SM-PC\.gradle\caches\transforms-3\71bfb16b3c49fa620730b2a20ff786cc\transformed\firebase-common-20.2.0\AndroidManifest.xml:25:9-30:39
+184            android:name="com.google.firebase.provider.FirebaseInitProvider"
+184-->[com.google.firebase:firebase-common:20.2.0] C:\Users\SM-PC\.gradle\caches\transforms-3\71bfb16b3c49fa620730b2a20ff786cc\transformed\firebase-common-20.2.0\AndroidManifest.xml:26:13-77
+185            android:authorities="com.example.styleplt.firebaseinitprovider"
+185-->[com.google.firebase:firebase-common:20.2.0] C:\Users\SM-PC\.gradle\caches\transforms-3\71bfb16b3c49fa620730b2a20ff786cc\transformed\firebase-common-20.2.0\AndroidManifest.xml:27:13-72
+186            android:directBootAware="true"
+186-->[com.google.firebase:firebase-common:20.2.0] C:\Users\SM-PC\.gradle\caches\transforms-3\71bfb16b3c49fa620730b2a20ff786cc\transformed\firebase-common-20.2.0\AndroidManifest.xml:28:13-43
+187            android:exported="false"
+187-->[com.google.firebase:firebase-common:20.2.0] C:\Users\SM-PC\.gradle\caches\transforms-3\71bfb16b3c49fa620730b2a20ff786cc\transformed\firebase-common-20.2.0\AndroidManifest.xml:29:13-37
+188            android:initOrder="100" />
+188-->[com.google.firebase:firebase-common:20.2.0] C:\Users\SM-PC\.gradle\caches\transforms-3\71bfb16b3c49fa620730b2a20ff786cc\transformed\firebase-common-20.2.0\AndroidManifest.xml:30:13-36
+189
+190        <activity
+190-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\SM-PC\.gradle\caches\transforms-3\3b20c19594e6bdaf5d174af3fe522897\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+191            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+191-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\SM-PC\.gradle\caches\transforms-3\3b20c19594e6bdaf5d174af3fe522897\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+192            android:exported="false"
+192-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\SM-PC\.gradle\caches\transforms-3\3b20c19594e6bdaf5d174af3fe522897\transformed\play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+193            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+193-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\SM-PC\.gradle\caches\transforms-3\3b20c19594e6bdaf5d174af3fe522897\transformed\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+194
+195        <meta-data
+195-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\SM-PC\.gradle\caches\transforms-3\ba8f7e67922d34fab65bbc0ee4a05362\transformed\play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+196            android:name="com.google.android.gms.version"
+196-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\SM-PC\.gradle\caches\transforms-3\ba8f7e67922d34fab65bbc0ee4a05362\transformed\play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+197            android:value="@integer/google_play_services_version" />
+197-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\SM-PC\.gradle\caches\transforms-3\ba8f7e67922d34fab65bbc0ee4a05362\transformed\play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+198
+199        <provider
+199-->[androidx.emoji2:emoji2:1.2.0] C:\Users\SM-PC\.gradle\caches\transforms-3\18736114fdc4ecbef1a9b7e62a7c09a2\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+200            android:name="androidx.startup.InitializationProvider"
+200-->[androidx.emoji2:emoji2:1.2.0] C:\Users\SM-PC\.gradle\caches\transforms-3\18736114fdc4ecbef1a9b7e62a7c09a2\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+201            android:authorities="com.example.styleplt.androidx-startup"
+201-->[androidx.emoji2:emoji2:1.2.0] C:\Users\SM-PC\.gradle\caches\transforms-3\18736114fdc4ecbef1a9b7e62a7c09a2\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+202            android:exported="false" >
+202-->[androidx.emoji2:emoji2:1.2.0] C:\Users\SM-PC\.gradle\caches\transforms-3\18736114fdc4ecbef1a9b7e62a7c09a2\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+203            <meta-data
+203-->[androidx.emoji2:emoji2:1.2.0] C:\Users\SM-PC\.gradle\caches\transforms-3\18736114fdc4ecbef1a9b7e62a7c09a2\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+204                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+204-->[androidx.emoji2:emoji2:1.2.0] C:\Users\SM-PC\.gradle\caches\transforms-3\18736114fdc4ecbef1a9b7e62a7c09a2\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+205                android:value="androidx.startup" />
+205-->[androidx.emoji2:emoji2:1.2.0] C:\Users\SM-PC\.gradle\caches\transforms-3\18736114fdc4ecbef1a9b7e62a7c09a2\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+206            <meta-data
+206-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\SM-PC\.gradle\caches\transforms-3\ce64ddaf91787b502a21030c5a692331\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+207                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+207-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\SM-PC\.gradle\caches\transforms-3\ce64ddaf91787b502a21030c5a692331\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+208                android:value="androidx.startup" />
+208-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\SM-PC\.gradle\caches\transforms-3\ce64ddaf91787b502a21030c5a692331\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+209        </provider>
+210    </application>
+211
+212</manifest>
